@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Walter Delgado</h1>
+<h1 align="center">Hello there, I'm Walter Delgado</h1>
 <h3 align="center">A passionate developer from Perú</h3>
 
 
